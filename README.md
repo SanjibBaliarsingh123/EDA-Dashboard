@@ -1,20 +1,29 @@
 # Exploratory Data Analysis Dashboard
 
-## Project Overview
-This project performs Exploratory Data Analysis (EDA) on a sales dataset and presents insights through visualizations and an interactive Streamlit dashboard.
+## 📌 Project Overview
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Streamlit
+This project performs exploratory data analysis on a real-world sales dataset and presents business insights through visualizations and an interactive dashboard.
 
-## Key Insights
-- Country-wise sales analysis
-- Product line performance
-- Deal size distribution
-- Year-wise sales trends
+## 🛠 Tools Used
 
-## Run Dashboard
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Streamlit
+
+## 📊 Features
+
+* Country-wise sales analysis
+* Product line performance
+* Deal size distribution
+* Year-wise sales trend
+* Interactive filtering dashboard
+
+## 🚀 Run Project
+
 streamlit run dashboard/app.py
+
+## 🔗 GitHub Repository
+
+https://github.com/SanjibBaliarsingh123/EDA-Dashboard
